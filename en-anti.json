@@ -1,5 +1,8 @@
 {
   "name": "英语anti",
+  "extends": [
+    "https://raw.githubusercontent.com/dislido/dlc-remote-danmaku-base/main/%E8%8B%B1%E8%AF%ADanti-%E8%B0%A2%E6%96%8C.json",
+  ],
   "list": [
     "this is so cringe it gives me cancer",
     "this is the definition of cringe",
