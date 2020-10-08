@@ -1,5 +1,5 @@
 {
-  "name": "英语anti",
+  "name": "英语anti整合包",
   "extends": [
     "https://raw.githubusercontent.com/dislido/dlc-remote-danmaku-base/main/%E8%8B%B1%E8%AF%ADanti-%E8%B0%A2%E6%96%8C.json"
   ],
