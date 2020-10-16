@@ -1,0 +1,11 @@
+{
+  "name": "英语安全弹幕整合包",
+  "extends": [
+  ],
+  "list": [
+    "good morning",
+    "good morning",
+    "hello",
+    "why is coco banned for 3 weeks?"
+  ]
+}
