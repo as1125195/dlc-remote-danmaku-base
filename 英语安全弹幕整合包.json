@@ -1,20 +1,9 @@
 {
   "name": "英语安全弹幕整合包",
   "extends": [
+    "https://raw.githubusercontent.com/dislido/dlc-remote-danmaku-base/main/%E8%8B%B1%E8%AF%AD%E5%B8%86%E8%88%B9.json"
   ],
   "list": [
-    "Am I the only one speaking English here?",
-    "Just a English comment passing by",
-    "Hi everyone😊 Hello from Brazil",
-    "Good afternoon my fellow Canadian friends",
-    "Anyone from Malaysia?",
-    "What is this stream about?",
-    "When will the stream start?",
-    "Shhhhhit im late when did the stream start?",
-    "Can you guys see my chat?",
-    "Laaaaaaagggggg",
-    "Not lagging here what are you talking about",
-    "Im using chrome perfectly fine on my device",
     "hello from malaysia",
     "what happend?,
     "good morning",
